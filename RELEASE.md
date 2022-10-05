@@ -8,4 +8,4 @@
 5. python -bb -X dev -W error -m build
 6. twine check --strict dist/*
 7. twine upload dist/*
-8. git push upstream --tags
+8. git push origin --tags
